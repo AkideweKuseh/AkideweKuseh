@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael Kuseh Akidiwe</h1>
-<h3 align="center">A Software developer from Ghana</h3>
+<h3 align="center">A Software Engineer from Ghana</h3>
 
-- 🌱 I’m currently learning **Mobile development with Flutter**
+- 🌱 I’m currently learning **AI Automations with n8n**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AkideweKuseh?tab=repositories](https://github.com/AkideweKuseh?tab=repositories)
 
