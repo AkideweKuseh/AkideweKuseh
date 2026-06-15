@@ -19,7 +19,7 @@
 
 ### 🚀 About Me
 
-I am a **Software Engineer** specializing in **AI Automations & Workflow Engineering**. I design and implement intelligent automated pipelines that connect applications, databases, and LLMs (Large Language Models) to streamline business operations, remove manual bottlenecks, and drive digital transformation.
+I am a **Software Engineer** specializing in **Artificial Intelligence & Full-Stack Software Engineering**. I design and implement intelligent automated pipelines that connect applications, databases, and LLMs (Large Language Models) to streamline business operations, remove manual bottlenecks, and drive digital transformation.
 
 - 🤖 **AI Automations**: Expert in **n8n** (self-hosted & cloud), Zapier, LangChain, and API-first AI integrations.
 - 👨‍💻 **Full-Stack Development**: Experienced in React, Vue.js, Next.js, Node.js, and Express.
