@@ -101,7 +101,7 @@ I am a **Software Engineer** specializing in **Artificial Intelligence & Full-St
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkideweKuseh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=2dd4bf&icon_color=6366f1&text_color=94a3b8&count_private=true&include_all_commits=true" alt="Michael's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AkideweKuseh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=2dd4bf&icon_color=6366f1&text_color=94a3b8&count_private=true" alt="Michael's GitHub Stats" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkideweKuseh&theme=tokyonight&hide_border=true&background=0f172a&ring=6366f1&fire=2dd4bf&currStreakNum=94a3b8" alt="Michael's GitHub Streak" height="160" />
 </p>
 
