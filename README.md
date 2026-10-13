@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://michaelkuseh.com"><img src="assets/banner.png" alt="Michael Akidiwe Kuseh, full-stack software engineer" width="100%" /></a>
+  <a href="https://michaelkuseh.com"><img src="assets/banner.png" alt="Michael Kuseh, full-stack software engineer" width="100%" /></a>
 </p>
 
 <p align="center">
